@@ -1,0 +1,27 @@
+sentiment,text,Document
+1,K is-a P,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+1,Q is-a R,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+1,K is-a Z,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+0,Q is-a K,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+1,K isRelation ZA,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+0,K is-a ZA,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+0,P is-a Y,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+0,B is-a ZA,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+1,N is-a R,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+0,N isRelation R,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+0,R isRelation Q,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+1,R isRelation ZA,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+1,B isRelation ZA,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+0,XX isRelation ZA,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+1,K is-a XX,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+0,XX isRelation FA,K is-a N; N is-a P; P is-a Q; Q is-a R; N is-a A; A is-a B; B is-a R; K is-a Z; F is-a Y; R isRelation FA; FA is-a ZA; R is-a XX
+0,G1 isRelation G3,G1 isRelation G2; G2 isRelation G3; G5 is-a G2; G4 is-a G6; G6 is-a G7; G7 isRelation G3; G9 is-a G1; G7 is-a G10
+0,G1 is-a G3,G1 isRelation G2; G2 isRelation G3; G5 is-a G2; G4 is-a G6; G6 is-a G7; G7 isRelation G3; G9 is-a G1; G7 is-a G10
+1,G2 isRelation G3,G1 isRelation G2; G2 isRelation G3; G5 is-a G2; G4 is-a G6; G6 is-a G7; G7 isRelation G3; G9 is-a G1; G7 is-a G10
+1,G5 isRelation G3,G1 isRelation G2; G2 isRelation G3; G5 is-a G2; G4 is-a G6; G6 is-a G7; G7 isRelation G3; G9 is-a G1; G7 is-a G10
+1,G9 isRelation G2,G1 isRelation G2; G2 isRelation G3; G5 is-a G2; G4 is-a G6; G6 is-a G7; G7 isRelation G3; G9 is-a G1; G7 is-a G10
+0,G6 is-a G3,G1 isRelation G2; G2 isRelation G3; G5 is-a G2; G4 is-a G6; G6 is-a G7; G7 isRelation G3; G9 is-a G1; G7 is-a G10
+1,G6 isRelation G3,G1 isRelation G2; G2 isRelation G3; G5 is-a G2; G4 is-a G6; G6 is-a G7; G7 isRelation G3; G9 is-a G1; G7 is-a G10
+1,G6 is-a G10,G1 isRelation G2; G2 isRelation G3; G5 is-a G2; G4 is-a G6; G6 is-a G7; G7 isRelation G3; G9 is-a G1; G7 is-a G10
+0,G10 isRelation G7,G1 isRelation G2; G2 isRelation G3; G5 is-a G2; G4 is-a G6; G6 is-a G7; G7 isRelation G3; G9 is-a G1; G7 is-a G10
+0,G10 isRelation G1,G1 isRelation G2; G2 isRelation G3; G5 is-a G2; G4 is-a G6; G6 is-a G7; G7 isRelation G3; G9 is-a G1; G7 is-a G10
